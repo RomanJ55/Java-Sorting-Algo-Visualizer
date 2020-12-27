@@ -5,6 +5,7 @@ clone of my python-sortAlgo Visualizer: https://github.com/RomanJ55/SortingAlgoV
 My first Java Project
  - learning Java by re-building my python project
  - using Swing for the GUI
+ - Using Interfaces and Enums
  - using Threading for the visualisations in real time
  - may not be optimal coded(and messy) since I'm still exploring Java and its libralies
 
