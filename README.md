@@ -10,7 +10,7 @@ Currently supporting:
  - bubble sort
 
 Todo:
-- Use objects with values+colors for better visualisation
+- Use objects with values+colors for better visualisation(using int[] atm)
 
 - Implement other algorithms
   - merge sort
