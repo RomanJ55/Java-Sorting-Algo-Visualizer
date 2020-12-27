@@ -12,12 +12,12 @@ My first Java Project
 Currently supporting:
  - bubble sort
  - merge sort
+ - heap sort
+ - quick sort
 
 Todo:
 
 - Implement other algorithms
-  - heap sort
-  - quick sort
   - insertion sort
  
  
