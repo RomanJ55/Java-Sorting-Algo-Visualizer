@@ -10,10 +10,13 @@ Currently supporting:
  - bubble sort
 
 Todo:
- - merge sort
- - heap sort
- - quick sort
- - insertion sort
+- Use objects with values+colors for better visualisation
+
+- Implement other algorithms
+  - merge sort
+  - heap sort
+  - quick sort
+  - insertion sort
  
  
  ![Start_screen](assets/001.jpg "Start_screen")
