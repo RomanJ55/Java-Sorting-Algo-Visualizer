@@ -10,12 +10,11 @@ My first Java Project
 
 Currently supporting:
  - bubble sort
+ - merge sort
 
 Todo:
-- Use objects with values+colors for better visualisation(using int[] atm)
 
 - Implement other algorithms
-  - merge sort
   - heap sort
   - quick sort
   - insertion sort
