@@ -4,7 +4,9 @@ clone of my python-sortAlgo Visualizer: https://github.com/RomanJ55/SortingAlgoV
 
 My first Java Project
  - learning Java by re-building my python project
- - may not be optimal coded since I'm still exploring Java and its libralies
+ - Swing for GUI
+ - Threading for the visualisations in real time
+ - may not be optimal coded(and messy) since I'm still exploring Java and its libralies
 
 Currently supporting:
  - bubble sort
