@@ -7,7 +7,7 @@ My first Java Project
  - using Swing for the GUI
  - Using Interfaces and Enums
  - using Threading for the visualisations in real time
- - may not be optimal coded(and messy) since I'm still exploring Java and its libralies
+ - may not be optimal coded(and messy) since I'm still exploring Java and its libraries
 
 Currently supporting:
  - bubble sort
