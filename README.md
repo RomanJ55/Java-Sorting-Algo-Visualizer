@@ -9,17 +9,13 @@ My first Java Project
  - using Threading for the visualisations in real time
  - may not be optimal coded(and messy) since I'm still exploring Java and its libraries
 
-Currently supporting:
+Supporting:
  - bubble sort
  - merge sort
  - heap sort
  - quick sort
+ - insertion sort
 
-Todo:
-
-- Implement other algorithms
-  - insertion sort
- 
  
  ![Start_screen](assets/001.jpg "Start_screen")
  ![merge](assets/002.jpg "merge")
