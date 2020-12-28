@@ -6,15 +6,18 @@ My first Java Project
  - learning Java by re-building my python project
  - using Swing for the GUI
  - exploring Interfaces and Enums
- - using Threading for the visualisations in real time
+ - using Threading for the visualisations
  - may not be optimal coded(and messy) since I'm still exploring Java and its libraries
 
-Supporting:
- - bubble sort
- - merge sort
- - heap sort
- - quick sort
- - insertion sort
+Program supports:
+ - Soring Algorithms:
+   - bubble sort
+   - merge sort
+   - heap sort
+   - quick sort
+   - insertion sort
+ - visualisation in real time
+ - uses custom objects(with a color and value) for the elements in the lists
 
  
  ![Start_screen](assets/001.jpg "Start_screen")
